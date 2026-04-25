@@ -10,7 +10,7 @@ source:
   sha256: 0058b43f1890d7a3fc2bb2fdd232840a560e3decde01a910f5e02ed81c952f13
 
 build:
-  number: 0
+  number: 1
   noarch: python
   entry_points:
     - xnat-ls = xnatutils.ls_:cmd
